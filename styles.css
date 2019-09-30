@@ -1,0 +1,38 @@
+body {
+	font-family: 'Space Mono', monospace;
+	font-style:normal;
+    line-height:22px;
+    font-weight: 700;
+	font-size: 20px;
+	color: #000;
+}
+
+body {
+	background-color: #FFF;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.moritz {
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 0.1em solid black;
+    margin-bottom: 0.1em;
+}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: blue;
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
